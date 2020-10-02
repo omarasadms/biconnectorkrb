@@ -1,0 +1,10 @@
+log output directed to /home/bimongosqld/log/mongosqld.log
+2020-10-02T20:08:47.910+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.14.0 pid=31573 host=ip-172-16-19-208.lab.morganstanley.com
+2020-10-02T20:08:47.910+0000 I CONTROL    [initandlisten] git version: d3d4ba4d427c17553be4c2291f7acf54f4b8f64e
+2020-10-02T20:08:47.910+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.0.2k-fips  26 Jan 2017 (built with OpenSSL 1.0.2k  26 Jan 2017)
+2020-10-02T20:08:47.910+0000 I CONTROL    [initandlisten] options: {config: "/home/bimongosqld/biconnector/mongosqld_nokrb.conf", systemLog: {path: "/home/bimongosqld/log/mongosqld.log"}, schema: {path: "/home/bimongosqld/biconnector/movies.drdl"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "ip-172-16-42-253.lab.morganstanley.com:27000", auth: {source: "admin"}}}}
+2020-10-02T20:08:47.910+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2020-10-02T20:08:47.910+0000 I CONTROL    [initandlisten]
+2020-10-02T20:08:47.912+0000 I NETWORK    [initandlisten] waiting for connections at [::]:3307
+2020-10-02T20:08:47.912+0000 I NETWORK    [initandlisten] waiting for connections at /tmp/mysql.sock
+2020-10-02T20:08:52.184+0000 I CONTROL    [signalProcessingThread] shutting down
